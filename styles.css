@@ -36,9 +36,6 @@
 }
 
 .site-logo{
- 
-    width: 44px;
-    height: 21px;
     text-decoration: none;
 
     font-family: 'Raleway';
@@ -54,16 +51,6 @@
 }
 
 .span-logo{
-        width: 71px;
-        height: 21px;
-        text-decoration: none;
-
-        font-family: 'Raleway';
-        font-style: normal;
-        font-weight: 800;
-        font-size: 18px;
-        line-height: 21px;
-      
 
     color: #2E2F42; 
 }
@@ -155,9 +142,7 @@ list-style-type: none;
     
     font-family: 'Roboto';
         font-style: normal;
-        font-weight: 700;
-        font-size: 36px;
-        line-height: 40px;
+       
         
 }
 
@@ -167,29 +152,16 @@ list-style-type: none;
         background: #2E2F42;
 }
 
-.footer-logo {
+.site-logo {
 
-    width: 44px;
-    height: 21px;
-    text-decoration: none;
-    font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 21px;
+
+ 
     color: #4D5AE5;
 
 }
 
 .span-footer-logo {
-    width: 71px;
-    height: 21px;
-    text-decoration: none;
-    font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 21px;
+
 
 
     color: #ffffff;
