@@ -16,7 +16,7 @@
 
 .link,
 .contacts-link,
-.logo .span-logo{
+.logo .span-logo {
     text-decoration: none;
 }
 
@@ -58,8 +58,11 @@
 .menu-nav{
     list-style-type: none;
 }
-
+.menu-item{
+   
+}
 .menu-link-1{
+    color: #2E2F42;
 }
     
 .menu-link-2{
@@ -135,13 +138,18 @@ list-style-type: none;
 }
 .list-people{
     list-style-type: none;
+  
     
+}
+
+.img{
+background-color: #ffffff;
 }
 
 .team-section{
     
     font-family: 'Roboto';
-        font-style: normal;
+    font-style: normal;
        
         
 }
@@ -150,6 +158,23 @@ list-style-type: none;
 .footer{
    
         background: #2E2F42;
+}
+
+
+.list {
+    list-style: none;
+}
+
+.link,
+.contacts-link,
+.logo .span-logo {
+    text-decoration: none;
+}
+
+.button,
+.button-secondary {
+    font-family: inherit;
+    cursor: pointer
 }
 
 .site-logo {
@@ -174,8 +199,7 @@ list-style-type: none;
 
 .portfolio-logo {
 
-    width: 44px;
-    height: 21px;
+   
     text-decoration: none;
 
     font-family: 'Raleway';
@@ -189,8 +213,7 @@ list-style-type: none;
 }
 
 .portfolio-span-logo {
-    width: 71px;
-    height: 21px;
+    
     text-decoration: none;
 
     font-family: 'Raleway';
@@ -202,3 +225,37 @@ list-style-type: none;
 
     color: #2E2F42;
 }
+
+
+.menu-nav-2{
+
+list-style-type: none;
+text-decoration: none;
+    
+}
+
+
+
+
+
+.cards-list{
+list-style-type: none;
+}
+
+.cards-img{
+list-style-type: none;
+}
+
+.main-nav-2{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+
+.filter-btns{
+    list-style-type: none;
+    text-decoration: none;
+    
+}
+
+        
