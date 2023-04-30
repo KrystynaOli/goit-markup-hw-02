@@ -48,23 +48,17 @@
     line-height: 21px;
     /* identical to box height, or 117% */
 
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-
-    /* IRIS */
 
     color: #4D5AE5; 
 
 }
 
 .span-logo{
-    width: 71px;
-    height: 21px;
-    text-decoration: none;
+        width: 71px;
+        height: 21px;
+        text-decoration: none;
 
-    font-family: 'Raleway';
+        font-family: 'Raleway';
         font-style: normal;
         font-weight: 800;
         font-size: 18px;
@@ -95,17 +89,14 @@
 }
 
 .contacts-mail{
-text-decoration: none;
-font-family: 'Roboto';
+    text-decoration: none;
+    font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
-    /* identical to box height, or 150% */
 
     letter-spacing: 0.02em;
-
-    /* SLATE */
 
     color: #434455;
 }
@@ -133,11 +124,9 @@ background: #2E2F42;
         font-weight: 700;
         font-size: 56px;
         line-height: 60px;
-        /* or 107% */
-    
         text-align: center;
         letter-spacing: 0.02em;
-       color: #ffffff;
+        color: #ffffff;
     
 }
 
@@ -183,21 +172,11 @@ list-style-type: none;
     width: 44px;
     height: 21px;
     text-decoration: none;
-
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 21px;
-    /* identical to box height, or 117% */
-
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-
-    /* IRIS */
-
     color: #4D5AE5;
 
 }
@@ -206,7 +185,6 @@ list-style-type: none;
     width: 71px;
     height: 21px;
     text-decoration: none;
-
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 800;
@@ -233,12 +211,6 @@ list-style-type: none;
     font-weight: 800;
     font-size: 18px;
     line-height: 21px;
-    /* identical to box height, or 117% */
-
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
 
     color: #4D5AE5;
 
