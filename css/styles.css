@@ -10,266 +10,33 @@
 
 }
 
+.link{
+text-decoration: none;
+}
+
 .list{
     list-style: none;
 }
 
-.link,
-.contacts-link,
-.logo .span-logo {
-    text-decoration: none;
-}
-
-.button,
-.button-secondary {
-    font-family: inherit;
-    cursor: pointer
-}
-
 body{
-    font-family: var(--main-font-family);
-    color: var(--title-text-color);
-    color: #434455;
-    background-color:#FFFFFF;
-    
+    font-family: "Roboto", sans-serif;
+    color: #434455l
+    background-color: var(#ffffff);
+
 }
 
-
-.site-logo{
-    text-decoration: none;
-
-    font-family: 'Raleway';
-    font-style: normal;
+.site-logo-link{
+    font-family: "Raleway", sans-serif;
     font-weight: 800;
     font-size: 18px;
-    line-height: 21px;
-    color: #4D5AE5; 
-
-}
-
-.span-logo{
-
-    color: #2E2F42; 
-}
-
-.menu-nav{
-
-    list-style-type: none;
-}
-
-.menu-link-1{
-    color: #2E2F42;
-}
-    
-
-.contacts {
-    text-decoration: none;
-}
-.contacts-to{
-    list-style-type: none;
-    
-
-}
-
-.contacts-mail{
-    text-decoration: none;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-
-    letter-spacing: 0.02em;
-
-    color: #434455;
-}
-
-.contacts-tel{
- text-decoration: none; 
- font-family: 'Roboto';
- font-style: normal;
- font-weight: 400;
- font-size: 16px;
- line-height: 24px;
-
-letter-spacing: 0.02em;
-color: #434455;
-}
-
-.dark-bg{
-   
-background: #2E2F42;
-}
-
-.title-1{
-    font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 56px;
-        line-height: 60px;
-        text-align: center;
-        letter-spacing: 0.02em;
-        color: #ffffff;
-        line-height: 1.07;
-    
-}
-
-.button-order{
-background: #4D5AE5;
-color: #ffffff;
-font-family: "Roboto", sans-serif;
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.04em;
-background-color: #404BBF;
-cursor: pointer;
-
-
-
-}
-
-.projects{
-    list-style-type: none;
-}
-
-.projects-photo{
-list-style-type: none;
-}
-
-.list-people{
-    list-style-type: none;
-  
-    
-}
-
-.img{
-background-color: #ffffff;
-}
-
-.team-section{
-    
-    font-family: 'Roboto';
-    font-style: normal;
-       
-        
-}
-
-
-footer{
-   
-        background: #2E2F42;
-}
-
-
-.list {
-    list-style: none;
-}
-
-.link,
-.contacts-link,
-.logo .span-logo {
-    text-decoration: none;
-}
-
-.button,
-.button-secondary {
-    font-family: inherit;
-    cursor: pointer
-}
-
-.site-logo {
-color: #4D5AE5;
-
-}
-
-.site-logo-span-footer,
-.link {
-font-family: 'Raleway' sans-serif;
-font-weight: 800;
-font-size: 18px;
-line-height: 1.17;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: var(--accent-hiver-color)
-
-}
-
-.title-footer{
-    color: #ffffff;
-}
-
-.site-logo-footer,
-.link {
-    
-    text-decoration: none;
-    font-family: 'Raleway' sans-serif;
-    font-style: normal;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2E2F42;
-}
-
-.cards-list{
-list-style-type: none;
-}
-
-.cards-img{
-list-style-type: none;
-}
-
-.filter-btns:hover {
-background-color: #404BBF;
-
-}
-
-.filter-btns:focus {
-    background-color: #404BBF;
-
-}
-
-        
-.title-projects-what-do{
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: var(--primary-text-color)
-}
-
-.section-of-team,
-.link {
-    background: #F4F4FD;
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: var(--primary-text-color)
-
-}
-
-.filter-btn-one{
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
     color: var(--accent-hiver-color);
-    background-color: var(--secondary-bg-color);
-    cursor: pointer;
 
 }
 
-.filter-btn{
-
-}
-
-.about-projects-second{
-    letter-spacing: 0.02em;
+.site-logo-link{
+    color: var(--primary-text-color);
 
 }
