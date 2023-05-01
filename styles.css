@@ -191,7 +191,7 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #f4f4fd;
+color: var(--accent-hiver-color);
 
 }
 
@@ -241,7 +241,8 @@ background-color: #404BBF;
     color: var(--primary-text-color)
 }
 
-.section-of-team {
+.section-of-team,
+.link {
     background: #F4F4FD;
     font-size: 36px;
     line-height: 1.11;
@@ -250,4 +251,20 @@ background-color: #404BBF;
     text-transform: capitalize;
     color: var(--primary-text-color)
 
+}
+
+.filter-btn-one{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: var(--accent-hiver-color);
+    background-color: var(--secondary-bg-color);
+    cursor: pointer;
+
+}
+
+.filter-btn{
+    
 }
