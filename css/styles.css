@@ -43,8 +43,6 @@ body{
     font-weight: 800;
     font-size: 18px;
     line-height: 21px;
-
-
     color: #4D5AE5; 
 
 }
@@ -124,9 +122,6 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 
-
-
-
 }
 
 .projects{
@@ -182,10 +177,7 @@ footer{
 }
 
 .site-logo {
-
-
- 
-    color: #4D5AE5;
+color: #4D5AE5;
 
 }
 
@@ -199,16 +191,11 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #f4f4fd;
 
-
-
-    color: #ffffff;
 }
 
 .title-footer{
     color: #ffffff;
 }
-
-
 
 .site-logo-footer,
 .link {
@@ -221,12 +208,8 @@ color: #f4f4fd;
     line-height: 1.17px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-
-
-
     color: #2E2F42;
 }
-
 
 .cards-list{
 list-style-type: none;
