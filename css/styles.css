@@ -46,10 +46,30 @@ body{
 
 }
 
+.span-logo-link{
+    color: var(--primary-text-color);
+}
+
 .contacts{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--title-text-color);
-    
+
 }
 
+.menu-nav-studio{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--primary-text-color);
+
+}
+
+.menu-nav-studio:hover {
+color: #404bbf
+}
+
+.menu-nav-studio:focus {
+    color: #404bbf
+}
