@@ -12,7 +12,9 @@
 
 .link,
 .contact-link,
-.span-logo-link{
+.span-logo-link,
+.site-logo-footer,
+{
 text-decoration: none;
 }
 
@@ -52,6 +54,10 @@ body{
     color: var(--primary-text-color);
 }
 
+.site-logo-span-footer{
+    color: var(--secondary-bg-color);
+}
+
 .contacts{
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -74,4 +80,17 @@ color: #404bbf
 
 .menu-nav-studio:focus {
     color: #404bbf
+}
+
+
+.footer{
+background-color: var(--primary-text-color);
+font-family: "Raleway", sans-serif;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: var(--accent-hiver-color);
+
 }
