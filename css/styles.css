@@ -10,7 +10,9 @@
 
 }
 
-.link{
+.link,
+.contact-link,
+.span-logo-link{
 text-decoration: none;
 }
 
