@@ -241,7 +241,8 @@ background-color: #404BBF;
     color: var(--primary-text-color)
 }
 
-.section-of-team {
+.section-of-team,
+.link {
     background: #F4F4FD;
     font-size: 36px;
     line-height: 1.11;
