@@ -15,6 +15,7 @@
 .span-logo-link,
 .site-logo-footer,
 .site-logo,
+.site-logo-span-footer,
 {
 text-decoration: none;
 }
@@ -66,6 +67,14 @@ body{
 
 .site-logo-span-footer{
     color: var(--secondary-bg-color);
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+
 }
 
 .contacts{
