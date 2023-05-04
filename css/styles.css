@@ -54,13 +54,13 @@ body{
 .span-logo-link{
     color: var(--primary-text-color);
     font-family: "Raleway", sans-serif;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--accent-hiver-color);
-    
+    color: var(--primary-text-color);
+
 }
 
 .site-logo-span-footer{
@@ -102,4 +102,38 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: var(--accent-hiver-color);
 
+}
+
+.link-studio{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--primary-text-color);
+    color: #404bbf;
+
+}
+
+.link-studio :focus,
+.link-portfolio,
+.link-contacts{
+    color: #404bbf;
+}
+
+.link-portfolio{
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: var(--primary-text-color);
+        color: #404bbf;
+}
+
+.link-contacts{
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: var(--primary-text-color);
+        color: #404bbf;
 }
